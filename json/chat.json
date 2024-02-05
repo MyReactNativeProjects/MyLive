@@ -58,5 +58,65 @@
     "videos": [
       "2a7f095e484171474dbeed39d4536973.mp4"
     ]
+  },
+  {
+    "name": "Kiran",
+    "profile_pic": "mgirl4.jpg",
+    "bio": "bio",
+    "age": 22,
+    "isOnline": true,
+    "chats": [
+      {
+        "type": "image",
+        "msg": "message here"
+      },
+      {
+        "type": "text",
+        "msg": "Aap apne baare mein batain! Aap free time mein kya karte hain?"
+      },
+      {
+        "type": "text",
+        "msg": "Kya aapne kuch dilchasp safar kiye hain ya koi aane waale safar ki planning ki hai?"
+      },
+      {
+        "type": "text",
+        "msg": "Woh kya cheez hai jo hamesha aapko muskurahat de deti hai, chahe kuch bhi ho?"
+      },
+      {
+        "type": "text",
+        "msg": "Kya aapko koi pasandida shauq ya aapko kuch pasandeeda activities hain jin par aapka dil lage?"
+      },
+      {
+        "type": "text",
+        "msg": "Kya aapko khana pasand hai? Kya aapke pas koi pasandida restaurants hain ya koi khaas cuisine hai jo aap prefer karte hain?"
+      },
+      {
+        "type": "text",
+        "msg": "Aakhri samay mein aapne koi behtareen kitaab ya film dekhi hai? Main hamesha naye recommendations ke liye tayyar hoon!"
+      },
+      {
+        "type": "text",
+        "msg": "Agar aapko koi superpower chunni ho, to woh kya hogi aur kyun?"
+      },
+      {
+        "type": "text",
+        "msg": "Apna dream job ya career kya hai ya aapki career ki kya ashaayen hain?"
+      },
+      {
+        "type": "text",
+        "msg": "Kya aapne kabhi kuch seekhna ya koshish karna chaha hai lekin mauka nahi mila?"
+      }
+    ],
+    "country": {
+      "flag": "https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/in.png",
+      "country_code": "+91",
+      "name": "India"
+    },
+    "pic": [
+      "girl2.jpg"
+    ],
+    "videos": [
+      "2a7f095e484171474dbeed39d4536973.mp4"
+    ]
   }
 ]
