@@ -4,6 +4,7 @@
     "profile_pic": "girl2.jpg",
     "bio": "bio",
     "age": 22,
+    "rate": 500.0,
     "isOnline": true,
     "chats": [
       {
@@ -64,6 +65,7 @@
     "profile_pic": "mgirl4.jpg",
     "bio": "bio",
     "age": 22,
+    "rate": 500.0,
     "isOnline": true,
     "chats": [
       {
