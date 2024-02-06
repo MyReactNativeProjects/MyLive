@@ -1,0 +1,14 @@
+[
+  {
+    "gift_cat_name": "Rani",
+    "gift_cat_media": "girl2",
+    "gift_cat_id": 1,
+    "gift": [
+      {
+        "gift_media": "winter20.jpg",
+        "coins": 78.0,
+        "gift_id": 1
+      }
+    ]
+  }
+]
